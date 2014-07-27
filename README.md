@@ -7,3 +7,5 @@ test-rep
 ========
 
 test repository in conjunction with courseracourse
+
+testing pulling and resubmitting to github...
